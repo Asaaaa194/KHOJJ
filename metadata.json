@@ -1,0 +1,6 @@
+{
+  "name": "KHOJJ",
+  "description": "The Premium Closet — Luxury streetwear & footwear atelier with uncropped editorial presentation, PKR currency, slide-out bag, checkout, and admin order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
